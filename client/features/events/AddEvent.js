@@ -17,7 +17,7 @@ import { addEvent } from "./eventsSlice";
 const AddEvent = () => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
-  const userId = useSelector((state) => state.auth.me.id);
+  const userId = "glopez"//useSelector((state) => state.auth.me.id);
   const [validated, setValidated] = useState(false);
   const [selectedOptions, setSelectedOptions] = useState([]);
   const [startVal, setStartVal] = useState(new Date());

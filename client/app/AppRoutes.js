@@ -23,10 +23,10 @@ import LaunchScreen from "../features/loading/LaunchScreen";
 import LoginOrSignup from "../features/auth/LoginOrSignup";
 
 const AppRoutes = () => {
-  const isLoggedIn = useSelector((state) => !!state.auth.me.id);
-  const isAdmin = useSelector((state) => state.auth.me.isAdmin);
-  const userId = useSelector((state) => state.auth.me.id);
-  const user = useSelector((state) => state.auth.me);
+  const isLoggedIn = false //useSelector((state) => !!state.auth.me.id);
+  const isAdmin = true //useSelector((state) => state.auth.me.isAdmin);
+  const userId = 'glopez'//useSelector((state) => state.auth.me.id);
+  const user = "George Lopez"//useSelector((state) => state.auth.me);
   const loading = useSelector((state) => state.auth.loading);
 
   const dispatch = useDispatch();

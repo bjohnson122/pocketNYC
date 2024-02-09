@@ -6,8 +6,8 @@ const events = [
       "Take our signature tour, and let Central Park Conservancy guides give you an insider's look at some of the most iconic features of the world's greatest urban park.",
     image:
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg-vimbly-com-images.imgix.net%2Ffull_photos%2Fcentral-park-pedicab-tour-4.jpg%3Fauto%3Dcompress%26fit%3Dcrop%26h%3D490%26ixlib%3Dphp-1.2.1%26w%3D730&f=1&nofb=1&ipt=121f8762a9b462ccc9560bc64fa9397b9a8896f113384fb0be15072b8efd100c&ipo=images",
-    start: "2023-10-11 13:00",
-    end: "2023-10-11 15:00",
+    start: "2024-10-11 13:00",
+    end: "2024-10-11 15:00",
     tags: ["outdoors", "family-friendly"],
     borough: "Manhattan",
     eventLink: "https://www.centralpark.com/tours",
@@ -22,8 +22,8 @@ const events = [
       "This year's tree is a 50-foot Norway spruce that will be lit during a fireworks display. Olympic-medalist Johnny Weir will be among the talented skaters to hit the ice rink for a special performance that will include live music.",
     image:
       "https://secretnyc.co/wp-content/uploads/2017/11/bryparktree4-1024x710.jpg",
-    start: "2023-12-20 17:00",
-    end: "2023-12-20 22:00",
+    start: "2024-12-20 17:00",
+    end: "2024-12-20 22:00",
     tags: ["outdoors", "family-friendly", "arts"],
     borough: "Manhattan",
     eventLink: "https://bryantpark.org/",
@@ -40,8 +40,8 @@ const events = [
       "New York City is home to an amazing abundance of wildlife. Our Urban Park Rangers will guide you to the best wildlife viewing spots in the urban jungle.",
     image:
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.allaboutbirds.org%2Fnews%2Fwp-content%2Fuploads%2F2019%2F05%2FNYC-birds-Riepe.jpg&f=1&nofb=1&ipt=d859b3c5d5e170c8755c97eafe04b8c7aa8bde1d78b85734dc5294935341fe66&ipo=images",
-    start: "2023-07-01 12:00",
-    end: "2023-07-01 18:00",
+    start: "2024-07-01 12:00",
+    end: "2024-07-01 18:00",
     tags: ["outdoors", "family-friendly"],
     borough: "Queens",
     eventLink:
@@ -58,8 +58,8 @@ const events = [
       "CultureFest NYC is an annual Music and Multi-Cultural event happening in NYC ",
     image:
       "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.indianexpress.com%2F2016%2F09%2Fcaribbean-2.jpg&f=1&nofb=1&ipt=d44ae0f34b61fb93b8c96d8fb4b21f6f9b10ec76a89aceda45dd5a4cff8700a5&ipo=images",
-    start: "2023-06-05 12:00",
-    end: "2023-06-05 19:00",
+    start: "2024-06-05 12:00",
+    end: "2024-06-05 19:00",
     eventLink: "https://theculturefest.nyc/",
     tags: ["multicultural", "outdoors"],
     borough: "Manhattan",
@@ -75,8 +75,8 @@ const events = [
       "Head to the High Line each Tuesday night for a romantic walk along the park and a chance to take a closer look at the stars.",
     image:
       "https://www.nps.gov/articles/000/images/ARCH_stargazing.jpeg?maxwidth=650&autorotate=false",
-    start: "2023-08-27 17:00",
-    end: "2023-08-27 21:00",
+    start: "2024-08-27 17:00",
+    end: "2024-08-27 21:00",
     tags: ["family-friendly"],
     borough: "Manhattan",
     eventLink: "https://www.thehighline.org/",
@@ -86,14 +86,14 @@ const events = [
     userId: 5,
   },
   {
-    title: "School's Out Summer Bash 2023",
+    title: "School's Out Summer Bash 2024",
     address: "1300 Greene Ave, Brooklyn, NY, 11237",
     description:
       "Celebrate the start of summer fun at Parks at our fun-filled School's Out Festival with inflatables, games, face painting, music, popcorn, and more!",
     image:
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.timeout.com%2Fimages%2F102735335%2F1372%2F772%2Fimage.jpg&f=1&nofb=1&ipt=af220fff75ef2939b3edf0653278a7416bf1e5e4d5dc9d04a12e8d53157318ed&ipo=images",
-    start: "2023-06-25 16:00",
-    end: "2023-06-25 18:00",
+    start: "2024-06-25 16:00",
+    end: "2024-06-25 18:00",
     tags: ["arts", "outdoors"],
     borough: "Brooklyn",
     eventLink:
@@ -109,8 +109,8 @@ const events = [
       "Kids ages 6-12 are invited for free sports instruction starting the first day of summer at Hunts Point Recreation Center!",
     image:
       "https://images.squarespace-cdn.com/content/v1/549af14be4b038053fe035c4/1427141796113-VJZCNS4GPZVJ5DI0QJEO/web02.JPG?format=1500w",
-    start: "2023-06-21 17:00",
-    end: "2023-06-21 19:00",
+    start: "2024-06-21 17:00",
+    end: "2024-06-21 19:00",
     tags: ["sports", "holidays", "family-friendly"],
     borough: "Bronx",
     eventLink:
@@ -126,8 +126,8 @@ const events = [
       "New York City-wide annual festival, showcasing the richness and variety of the cultures of Latin America, the Caribbean, and Spain.",
     image:
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DhXKTK_C8oiXsee2dYVYlAHaFX%26pid%3DApi&f=1&ipt=47576a1b788c1fdfd2634e4cb6349c3f03f625d18eec39e846f915ad3fe62802&ipo=images",
-    start: "2023-08-30 13:00",
-    end: "2023-08-30 18:00",
+    start: "2024-08-30 13:00",
+    end: "2024-08-30 18:00",
     tags: ["multicultural", "arts", "family-friendly"],
     borough: "Manhattan",
     eventLink: "https://lacw.net/",
@@ -142,8 +142,8 @@ const events = [
       "The NYC Pride March is an annual event celebrating the LGBTQ community in New York City.",
     image:
       "https://cdn.vox-cdn.com/thumbor/WCQORxf3pX3gFvaGNJDY_smqkJ4=/0x0:3600x2025/1200x800/filters:focal(1512x725:2088x1301)/cdn.vox-cdn.com/uploads/chorus_image/image/64081690/983255578.jpg.0.jpg",
-    start: "2023-06-26 11:00",
-    end: "2023-06-26 17:00",
+    start: "2024-06-26 11:00",
+    end: "2024-06-26 17:00",
     tags: ["outdoors"],
     borough: "Manhattan",
     eventLink: "https://www.nycpride.org/event/nyc-pride-march",
@@ -175,8 +175,8 @@ const events = [
       "Spread holiday cheer throughout the community with Christmas carols, festive crafts, sips and snacks, and more.",
     image:
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nydailynews.com%2Fresizer%2Fwo_PpwUJsRuDhBm2uM2umWOmfkw%3D%2F1400x0%2Ftop%2Farc-anglerfish-arc2-prod-tronc.s3.amazonaws.com%2Fpublic%2FGD2U6JJ2G52EVGWI7IIEPRUTT4.jpg&f=1&nofb=1&ipt=de700b91c813bf4091a8f54354da3e6722cb488714bb85985120a12caed79a42&ipo=images",
-    start: "2023-12-17 13:00",
-    end: "2023-12-17 18:00",
+    start: "2024-12-17 13:00",
+    end: "2024-12-17 18:00",
     tags: ["holidays", "family-friendly"],
     borough: "Staten-Island",
     eventLink: "https://www.mallscenters.com/malls/new-york/staten-island-mall",
@@ -207,8 +207,8 @@ const events = [
       "A free, year-round fitness class that incorporates climbing multiple staircases, stretches and strengthening exercises, notable tree identification, and forest bathing. ",
     image:
       "https://images.seattletimes.com/wp-content/uploads/2022/03/WEB-2016-06-08RHawk400Parks.jpg?d=780x507",
-    start: "2023-05-17 8:30",
-    end: "2023-05-17 10:30",
+    start: "2024-05-17 8:30",
+    end: "2024-05-17 10:30",
     tags: ["health", "sports", "outdoors"],
     borough: "Manhattan",
     eventLink: "https://www.nyc.gov/events/forest-fitness/331550/47",
@@ -241,8 +241,8 @@ const events = [
       "A wonderful employment opportunity for job seekers! We are recruiting within the following sectors Food Service, Security (Licensed), Customer Service, Human Services, and Maintenance. Please come dressed professionally with 2 or more printed copies of your upstartd resume.",
     image:
       "https://gray-wrdw-prod.cdn.arcpublishing.com/resizer/vIQMLTRQ9PxKVcxZdUWktUau848=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/4NJQM5U3X5BKJIVJDZQ33HRYUE.jpg",
-    start: "2023-06-18 13:00",
-    end: "2023-06-18 15:00",
+    start: "2024-06-18 13:00",
+    end: "2024-06-18 15:00",
     tags: ["employment", "city services"],
     borough: "Brooklyn",
     eventLink: "https://www.nyc.gov/site/sbs/careers/recruitment-events.page",
@@ -258,8 +258,8 @@ const events = [
 
     image:
       "https://www.essence.com/wp-content/uploads/2019/12/Kwanzaa-Crawl-1832x1374.jpg",
-    start: "2023-12-26 18:00",
-    end: "2023-12-26 23:00",
+    start: "2024-12-26 18:00",
+    end: "2024-12-26 23:00",
     tags: ["multicultural", "holidays"],
     borough: "Brooklyn",
     eventLink: "https://www.kwanzaacrawl.com",
@@ -274,8 +274,8 @@ const events = [
 
     image:
       "https://wvstateparks.com/wp-content/uploads/2022/01/DSC07243-scaled.jpg",
-    start: "2023-01-13 10:00",
-    end: "2023-01-13 13:00",
+    start: "2024-01-13 10:00",
+    end: "2024-01-13 13:00",
     tags: ["family-friendly", "holidays", "outdoors"],
     borough: "Manhattan",
     eventLink: "https://secretnyc.co/sledding-in-nyc/",
@@ -326,8 +326,8 @@ const events = [
       "A day of learning the fundamentals of computer science for free. This event aims to introduce school-aged girls to the vast and ever growing world of tech",
     image:
       "https://api.time.com/wp-content/uploads/2014/07/girls-who-code-tech-camp.jpg",
-    start: "2023-02-26 11:00",
-    end: "2023-02-26 13:30",
+    start: "2024-02-26 11:00",
+    end: "2024-02-26 13:30",
     tags: ["education"],
     borough: "Brooklyn",
     eventLink: "https://girlswhocode.com",
@@ -342,8 +342,8 @@ const events = [
       "Get your picture taken with Santa, right here in Brooklyn! Bring the kids, and make sure to dress up in your best holiday outfit.",
     image:
       "https://www.gannett-cdn.com/presto/2018/11/06/PNJM/c8666c42-8d45-4480-89e1-d5d6a7825bd2-Black_Friday_Willowbrook_Mall.JPG",
-    start: "2023-12-18 12:00",
-    end: "2023-12-18 16:00",
+    start: "2024-12-18 12:00",
+    end: "2024-12-18 16:00",
     tags: ["holidays", "family-friendly"],
     borough: "Brooklyn",
     eventLink:
@@ -410,7 +410,7 @@ const events = [
       "Tech Career Fair focus on helping companies achieve their diversity and inclusivity initiative with more diverse non-traditional candidates",
     image:
       "https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/10/vitual-fair-image.jpg",
-    start: "2023-01-13 12:00",
+    start: "2024-01-13 12:00",
     end: "2022-12-10 15:00",
     tags: ["employment"],
     borough: "Virtual",
@@ -427,8 +427,8 @@ const events = [
       "Free NYC Fashion Week runway show for those looking to get a sneak peek at new fashion trends!",
     image:
       "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F387440129%2F555841001127%2F1%2Foriginal.20221105-004831?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=252%2C809%2C3846%2C1923&s=7eee74fb5e504c8516b1ce81b628b33e",
-    start: "2023-02-11 19:00",
-    end: "2023-02-11 22:00",
+    start: "2024-02-11 19:00",
+    end: "2024-02-11 22:00",
     tags: ["health", "sports"],
     borough: "Manhattan",
     eventLink:
@@ -441,11 +441,11 @@ const events = [
     title: "New York Career Fair",
     address: "Hilton Doubletree Hotel 525 8th Ave New York City, NY 10018",
     description:
-      "Meet live with New York City Employers on Friday, March 3, 2023",
+      "Meet live with New York City Employers on Friday, March 3, 2024",
     image:
       "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F394575169%2F316131771624%2F1%2Foriginal.20221116-141434?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=b726e56e4f6863186083a19b7e130e81",
-    start: "2023-07-11 09:30",
-    end: "2023-07-11 12:30",
+    start: "2024-07-11 09:30",
+    end: "2024-07-11 12:30",
     tags: ["employment"],
     borough: "Manhattan",
     eventLink:
@@ -460,8 +460,8 @@ const events = [
     description: "Free Live Jazz at Nook in Brooklyn!",
     image:
       "https://images.pexels.com/photos/733767/pexels-photo-733767.jpeg?auto=compress&cs=tinysrgb&w=800",
-    start: "2023-08-19 20:00",
-    end: "2023-08-19 00:00",
+    start: "2024-08-19 20:00",
+    end: "2024-08-19 00:00",
     tags: ["music"],
     borough: "Brooklyn",
     eventLink:
@@ -477,8 +477,8 @@ const events = [
       "Meet singles online! Single and Ready to Mingle? Then make yourself known and register today for Speed Dating for Professional Singles.",
     image:
       "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F203778769%2F440079347442%2F1%2Foriginal.20211221-211745?w=720&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C9%2C1226%2C613&s=c160feaa579192e40ba2c9ebcc6992a9",
-    start: "2023-07-31 19:00",
-    end: "2023-07-31 20:00",
+    start: "2024-07-31 19:00",
+    end: "2024-07-31 20:00",
     tags: ["social"],
     borough: "Virtual",
     eventLink:
@@ -495,8 +495,8 @@ const events = [
       "Join Dr. Kevin to learn how to increase your metabolism and burn fat! Don't get confused with all the nutrition information overload online.",
     image:
       "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F156221439%2F158727551274%2F1%2Foriginal.20210926-173426?w=720&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C163%2C1200%2C600&s=bf0ef96a0216ecc41900987160d90f74",
-    start: "2023-03-06 19:00",
-    end: "2023-03-06 20:00",
+    start: "2024-03-06 19:00",
+    end: "2024-03-06 20:00",
     tags: ["health"],
     borough: "Virtual",
     eventLink:
@@ -512,8 +512,8 @@ const events = [
       "The longest running stand-up comedy show in Brooklyn presented by Turner Sparks and Aaron Kominos-Smith (now in it’s 15th year)!",
     image:
       "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F104189980%2F57237649397%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C112%2C960%2C480&s=42cccd93ae72f091bc0ec81ca9aa051c",
-    start: "2023-10-22 20:00",
-    end: "2023-10-22 21:15",
+    start: "2024-10-22 20:00",
+    end: "2024-10-22 21:15",
     tags: ["social"],
     borough: "Brooklyn",
     eventLink:
@@ -529,8 +529,8 @@ const events = [
       "The Queens Museum welcomes teens (ages 13+) and adults with disabilities to join us at the museum for art-making and exhibition exploration.",
     image:
       "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F336569939%2F686900417773%2F1%2Foriginal.20220209-174018?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C251%2C3000%2C1500&s=14d6b5212d97b1e1ab9b6910f9d886e8",
-    start: "2023-06-02 14:00",
-    end: "2023-06-02 16:00",
+    start: "2024-06-02 14:00",
+    end: "2024-06-02 16:00",
     tags: ["disability services", "family-friendly", "arts"],
     borough: "Queens",
     eventLink:
@@ -546,8 +546,8 @@ const events = [
       "Free IN-PERSON poetry writing workshop for all levels focusing on generating new work and sharing in a welcoming environment.",
     image:
       "https://images.pexels.com/photos/1925536/pexels-photo-1925536.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-04-18 16:00",
-    end: "2023-04-18 17:30",
+    start: "2024-04-18 16:00",
+    end: "2024-04-18 17:30",
     tags: ["education, social"],
     borough: "Manhattan",
     eventLink:
@@ -564,8 +564,8 @@ const events = [
       "NYC Department of Transportation’s Office of Safety Education and Outreach offers vibrant workshops, publications and trainings. Helping parents, families and caregivers reduce injuries and keep children safe in New York City's traffic environment and at home.",
     image:
       "https://images.pexels.com/photos/6182086/pexels-photo-6182086.jpeg?auto=compress&cs=tinysrgb&w=800",
-    start: "2023-05-23 13:30",
-    end: "2023-05-23 15:40",
+    start: "2024-05-23 13:30",
+    end: "2024-05-23 15:40",
     tags: ["city services", "education"],
     borough: "Manhattan",
     eventLink:
@@ -580,8 +580,8 @@ const events = [
     description:
       "Newborn Care Course hosted by the Tremont Neighborhood Health Action Center.",
     image: "https://medlineplus.gov/images/InfantandNewbornCare_share.jpg",
-    start: "2023-03-01 18:00",
-    end: "2023-03-01 20:00",
+    start: "2024-03-01 18:00",
+    end: "2024-03-01 20:00",
     tags: ["family-friendly", "education"],
     borough: "Bronx",
     eventLink:
@@ -597,8 +597,8 @@ const events = [
       "Come to the Pelham Parkway-Van Nest Library and meet other people who are practicing English, just like you!",
     image:
       "https://media.istockphoto.com/id/1191628351/photo/share-your-vision-with-people-wholl-work-to-achieve-it.jpg?s=612x612&w=0&k=20&c=CpcQX_NhQ_k9mNlY01N3lOZmHimsSdwVFrJD8YZlpKo=",
-    start: "2023-08-10 15:00",
-    end: "2023-08-10 16:30",
+    start: "2024-08-10 15:00",
+    end: "2024-08-10 16:30",
     tags: ["education", "social"],
     borough: "Bronx",
     eventLink:
@@ -631,8 +631,8 @@ const events = [
       "Join us in feeding our community by dropping off food/non-perishable goods!",
     image:
       "https://summitlife.org/wp-content/uploads/2016/01/Second-Harvest-Items.jpg",
-    start: "2023-11-19 09:00",
-    end: "2023-11-19 11:00",
+    start: "2024-11-19 09:00",
+    end: "2024-11-19 11:00",
     tags: ["food"],
     borough: "Staten-Island",
     eventLink:
@@ -666,8 +666,8 @@ const events = [
       "Happy Valentine’s Day! Kick off the Season of Love with Victorian valentine making using reproductions of historic patterns and ephemera. Mean valentines, known as Vinegar Valentines, were also popular during this period, so broken hearts are welcome!",
     image:
       "https://images.squarespace-cdn.com/content/v1/5ef3ad9e35f57066d6bf11b9/a689d954-551f-4692-9c8c-f1802488e3ed/PXL_20210323_185106887.jpg?format=2500w",
-    start: "2023-02-04 13:00",
-    end: "2023-02-04 16:00",
+    start: "2024-02-04 13:00",
+    end: "2024-02-04 16:00",
     tags: ["family-friendly", "holidays"],
     borough: "Queens",
     eventLink:
@@ -683,8 +683,8 @@ const events = [
       "Celebrate Lunar New Year and the Year of the Rabbit with Queens Place + New York Chinese Cultural Center! Traditional Chinese and Lion Dance Performances, Sugar Painting Demonstration + Giveaway, Festive Music, Raffles & More.",
     image:
       "https://imgs.6sqft.com/wp-content/uploads/2022/01/28131619/lion-dancers-on-CM-main-concourse.jpg",
-    start: "2023-01-24 15:00",
-    end: "2023-01-24 17:00",
+    start: "2024-01-24 15:00",
+    end: "2024-01-24 17:00",
     tags: ["family-friendly", "holidays"],
     borough: "Queens",
     eventLink:
@@ -697,11 +697,11 @@ const events = [
     title: "Lunar New Year Celebration at Queens Museum",
     address: "Queens Place Mall 8801 Queens Boulevard Queens, NY 11373",
     description:
-      "Please join us to celebrate Lunar New Year 2023 as the New York Chinese Cultural Center (NYCCC) returns to Queens Museum with its signature program. Together we will be celebrating the year of the rabbit with folk dances, Lion Dance, Kung fu demonstrations, and traditional arts and crafts. The event will showcase a 45-minute performance program featuring professional artists and students of NYCCC’s School of the Arts, as well as a hands-on Chinese calligraphy and ink brush painting workshop for kids and adults. The Queens Museum’s education programs will offer an all-ages art-making workshop offered in English, Spanish and Mandarin.",
+      "Please join us to celebrate Lunar New Year 2024 as the New York Chinese Cultural Center (NYCCC) returns to Queens Museum with its signature program. Together we will be celebrating the year of the rabbit with folk dances, Lion Dance, Kung fu demonstrations, and traditional arts and crafts. The event will showcase a 45-minute performance program featuring professional artists and students of NYCCC’s School of the Arts, as well as a hands-on Chinese calligraphy and ink brush painting workshop for kids and adults. The Queens Museum’s education programs will offer an all-ages art-making workshop offered in English, Spanish and Mandarin.",
     image:
       "https://queensmuseum.org/wp-content/uploads/2022/12/4k1a7022_edit.jpg",
-    start: "2023-01-29 13:00",
-    end: "2023-01-29 16:00",
+    start: "2024-01-29 13:00",
+    end: "2024-01-29 16:00",
     tags: ["family-friendly", "holidays"],
     borough: "Queens",
     eventLink: "https://queensmuseum.org/event/lunar-new-year-celebration/",
@@ -715,8 +715,8 @@ const events = [
     description:
       "It’s almost time tù (兔) celebrate! Ring in the Year of the Rabbit with an afternoon of festivities for the whole family— hop, skip, or jump on over! Performances, Demonstrations, and More!",
     image: "https://media.timeout.com/images/103114120/750/422/image.jpg",
-    start: "2023-01-21 14:30",
-    end: "2023-01-21 17:30",
+    start: "2024-01-21 14:30",
+    end: "2024-01-21 17:30",
     tags: ["family-friendly", "holidays"],
     borough: "Queens",
     eventLink:
@@ -731,8 +731,8 @@ const events = [
     description:
       "Roses are red, violets are blue, come down to Overlook NYC to find your first clue! Celebrate the anniversary of Ryan and Kelly's first hookup by joining us for The Office Trivia: Valentine's Day Edition at McCarren Park House on Valentine's Day, Tuesday, February 14 at 8pm! Bring your special someone (and the bobblehead you had made for them) or assemble your own Lonely Hearts Party.",
     image: "https://i.ytimg.com/vi/Iv22Ko4LQEQ/maxresdefault.jpg",
-    start: "2023-02-14 20:00",
-    end: "2023-02-14 22:00",
+    start: "2024-02-14 20:00",
+    end: "2024-02-14 22:00",
     tags: ["holidays"],
     borough: "Brooklyn",
     eventLink:
@@ -748,13 +748,13 @@ const events = [
     description:
       "From the Brooklyn Public Library: We are very excited to have you back at our events and would like to remind you that we are still in the midst of the pandemic. Please be considerate of your fellow guests and stay home if you’re feeling unwell. Also, consider wearing a mask when attending indoor BPL Presents events. You’ll be doing your part to help keep yourself and everyone healthy and safe.",
     image:
-      "https://images.squarespace-cdn.com/content/v1/5fc4f9b65bcb0228a29c94e8/c0b764a7-363d-4c18-a217-bb885caedb76/BPL-Black+History+Month+Concert-2023.png?format=750wg",
-    start: "2023-02-12 16:00",
-    end: "2023-02-12 17:45",
+      "https://images.squarespace-cdn.com/content/v1/5fc4f9b65bcb0228a29c94e8/c0b764a7-363d-4c18-a217-bb885caedb76/BPL-Black+History+Month+Concert-2024.png?format=750wg",
+    start: "2024-02-12 16:00",
+    end: "2024-02-12 17:45",
     tags: ["holidays", "arts"],
     borough: "Brooklyn",
     eventLink:
-      "https://www.harlemchamberplayers.org/event/black-history-month-concert-at-the-brooklyn-public-library2023",
+      "https://www.harlemchamberplayers.org/event/black-history-month-concert-at-the-brooklyn-public-library2024",
     status: "approved",
     latitude: "40.722231718465935",
     longitude: "-73.95142763341207",
@@ -765,9 +765,9 @@ const events = [
     description:
       "FREE Egg Hunt! Huge Circus Show, Egg Decorating, Pony Rides, Face Painting, Bouncy Houses, Relay Race, Carnival Games, Music, Talent Show!",
     image:
-      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F462774799%2F264197872401%2F1%2Foriginal.20230307-132114?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C105%2C860%2C430&s=c5b6032b6945c53eaaadf6cfa301d193",
-    start: "2023-04-09 12:45",
-    end: "2023-04-09 15:45",
+      "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F462774799%2F264197872401%2F1%2Foriginal.20240307-132114?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C105%2C860%2C430&s=c5b6032b6945c53eaaadf6cfa301d193",
+    start: "2024-04-09 12:45",
+    end: "2024-04-09 15:45",
     tags: ["holidays", "family-friendly"],
     borough: "Queens",
     eventLink:
@@ -783,8 +783,8 @@ const events = [
       "A fun bonding experience for you and your little one! Come paint with us.",
     image:
       "https://images.pexels.com/photos/6999313/pexels-photo-6999313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-05-09 18:00",
-    end: "2023-05-09 19:00",
+    start: "2024-05-09 18:00",
+    end: "2024-05-09 19:00",
     tags: ["family-friendly", "arts", 'holidays'],
     borough: "Queens",
     eventLink: "https://tinybeans.com/new-york/paint-and-wine-studios-nyc/",
@@ -799,8 +799,8 @@ const events = [
       "A fun bonding experience for you and your little one! Come paint with us.",
     image:
       "https://images.pexels.com/photos/14380160/pexels-photo-14380160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-06-19 18:00",
-    end: "2023-06-19 19:00",
+    start: "2024-06-19 18:00",
+    end: "2024-06-19 19:00",
     tags: ["family-friendly", "arts", "holidays"],
     borough: "Queens",
     eventLink: "https://tinybeans.com/new-york/paint-and-wine-studios-nyc/",
@@ -815,7 +815,7 @@ const events = [
       "Interested in trying something new this year or improving your yoga practice? Join Chelsea Piers Fitness on Thursday mornings at 7:00am for an all-level 60-minute Vinyasa Flow. The class will be hosted in the Maker's Room at Chelsea Market.",
     image:
       "https://www.pexels.com/photo/women-performing-yoga-on-green-grass-near-trees-1472887/",
-    end: "2023-04-27 07:00",
+    end: "2024-04-27 07:00",
     tags: ["outdoors", "health"],
     borough: "Manhattan",
     eventLink:
@@ -831,8 +831,8 @@ const events = [
       "Interested in trying something new this year or improving your yoga practice? Join Chelsea Piers Fitness on Thursday mornings at 7:00am for an all-level 60-minute Vinyasa Flow. The class will be hosted in the Maker's Room at Chelsea Market.",
     image:
       "https://images.pexels.com/photos/8436741/pexels-photo-8436741.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-06-01 07:00",
-    end: "2023-06-01 08:00",
+    start: "2024-06-01 07:00",
+    end: "2024-06-01 08:00",
     tags: ["sports", "health"],
     borough: "Manhattan",
     eventLink:
@@ -848,8 +848,8 @@ const events = [
       "Interested in trying something new this year or improving your yoga practice? Join Chelsea Piers Fitness on Thursday mornings at 7:00am for an all-level 60-minute Vinyasa Flow. The class will be hosted in the Maker's Room at Chelsea Market.",
     image:
       "https://images.pexels.com/photos/8436581/pexels-photo-8436581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-07-13 07:00",
-    end: "2023-07-13 08:00",
+    start: "2024-07-13 07:00",
+    end: "2024-07-13 08:00",
     tags: ["sports", "health"],
     borough: "Manhattan",
     eventLink:
@@ -865,8 +865,8 @@ const events = [
       "Interested in trying something new this year or improving your yoga practice? Join Chelsea Piers Fitness on Thursday mornings at 7:00am for an all-level 60-minute Vinyasa Flow. The class will be hosted in the Maker's Room at Chelsea Market.",
     image:
       "https://images.pexels.com/photos/1375883/pexels-photo-1375883.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-06-15 07:00",
-    end: "2023-06-15 08:00",
+    start: "2024-06-15 07:00",
+    end: "2024-06-15 08:00",
     tags: ["sports", "health"],
     borough: "Manhattan",
     eventLink:
@@ -882,8 +882,8 @@ const events = [
       "Interested in trying something new this year or improving your yoga practice? Join Chelsea Piers Fitness on Thursday mornings at 7:00am for an all-level 60-minute Vinyasa Flow. The class will be hosted in the Maker's Room at Chelsea Market.",
     image:
       "https://images.pexels.com/photos/8437076/pexels-photo-8437076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-05-25 07:00",
-    end: "2023-05-25 08:00",
+    start: "2024-05-25 07:00",
+    end: "2024-05-25 08:00",
     tags: ["sports", "health"],
     borough: "Manhattan",
     eventLink:
@@ -900,8 +900,8 @@ const events = [
     image:
       "https://images.pexels.com/photos/713149/pexels-photo-713149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 
-    start: "2023-08-09 19:00",
-    end: "2023-08-09 21:00",
+    start: "2024-08-09 19:00",
+    end: "2024-08-09 21:00",
     tags: ["multicultural", "arts"],
     borough: "Brooklyn",
     eventLink:
@@ -917,7 +917,7 @@ const events = [
       "Bushwick’s Got Talent is our monthly FREE spectacle of outrageous entertainment, showcasing fresh talent and never-before-seen acts at their boldest, brightest and messiest- all for your pleasure.",
     image:
       "https://images.pexels.com/photos/9419224/pexels-photo-9419224.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    end: "2023-05-05 19:00",
+    end: "2024-05-05 19:00",
     tags: ["multicultural", "arts"],
     borough: "Brooklyn",
     eventLink:
@@ -933,8 +933,8 @@ const events = [
       "Bushwick’s Got Talent is our monthly FREE spectacle of outrageous entertainment, showcasing fresh talent and never-before-seen acts at their boldest, brightest and messiest- all for your pleasure.",
     image:
       "https://images.pexels.com/photos/7097470/pexels-photo-7097470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-07-12 19:00",
-    end: "2023-07-12 21:00",
+    start: "2024-07-12 19:00",
+    end: "2024-07-12 21:00",
     tags: ["multicultural", "arts"],
     borough: "Brooklyn",
     eventLink:
@@ -950,8 +950,8 @@ const events = [
       "Bushwick’s Got Talent is our monthly FREE spectacle of outrageous entertainment, showcasing fresh talent and never-before-seen acts at their boldest, brightest and messiest- all for your pleasure.",
     image:
       "https://images.pexels.com/photos/1751731/pexels-photo-1751731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-04-05 19:00",
-    end: "2023-04-05 21:00",
+    start: "2024-04-05 19:00",
+    end: "2024-04-05 21:00",
     tags: ["multicultural", "arts"],
     borough: "Brooklyn",
     eventLink:
@@ -967,8 +967,8 @@ const events = [
       "Bushwick’s Got Talent is our monthly FREE spectacle of outrageous entertainment, showcasing fresh talent and never-before-seen acts at their boldest, brightest and messiest- all for your pleasure.",
     image:
       "https://images.pexels.com/photos/730656/pexels-photo-730656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-10-04 19:00",
-    end: "2023-10-04 21:00",
+    start: "2024-10-04 19:00",
+    end: "2024-10-04 21:00",
     tags: ["multicultural", "arts"],
     borough: "Brooklyn",
     eventLink:
@@ -984,8 +984,8 @@ const events = [
       "Bushwick’s Got Talent is our monthly FREE spectacle of outrageous entertainment, showcasing fresh talent and never-before-seen acts at their boldest, brightest and messiest- all for your pleasure.",
     image:
       "https://images.pexels.com/photos/359995/pexels-photo-359995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-11-08 19:00",
-    end: "2023-11-08 21:00",
+    start: "2024-11-08 19:00",
+    end: "2024-11-08 21:00",
     tags: ["multicultural", "arts"],
     borough: "Brooklyn",
     eventLink:
@@ -1001,8 +1001,8 @@ const events = [
       "Bushwick’s Got Talent is our monthly FREE spectacle of outrageous entertainment, showcasing fresh talent and never-before-seen acts at their boldest, brightest and messiest- all for your pleasure.",
     image:
       "https://images.pexels.com/photos/1246437/pexels-photo-1246437.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-11-29 19:00",
-    end: "2023-11-29 21:00",
+    start: "2024-11-29 19:00",
+    end: "2024-11-29 21:00",
     tags: ["multicultural", "arts"],
     borough: "Brooklyn",
     eventLink:
@@ -1017,8 +1017,8 @@ const events = [
     description: "Families can come and enjoy FREE halloween candy and treats!",
     image:
       "https://images.pexels.com/photos/3095465/pexels-photo-3095465.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-10-31 17:00",
-    end: "2023-10-31 19:00",
+    start: "2024-10-31 17:00",
+    end: "2024-10-31 19:00",
     tags: ["family-friendly", "holidays"],
     borough: "Brooklyn",
     eventLink: "Check back for an event link!",
@@ -1033,8 +1033,8 @@ const events = [
       "The borough’s most famous cuisine & culture festival is returning for its 6th season. The food event that has become a staple in the Bronx, gathering an average of 4k patrons per event, comes back to Fordham Plaza bigger and better. The market features a curated selection of local Bronx & NYC-based food, beverage, arts & crafts, and packaged goods vendors representing New York’s diversity. The series also features live performances from the Bronx and NYC's favorite local artists and various all-family activities.",
     image:
       "https://images.pexels.com/photos/2240361/pexels-photo-2240361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-04-29 17:30",
-    end: "2023-04-29 19:45",
+    start: "2024-04-29 17:30",
+    end: "2024-04-29 19:45",
     tags: ["outdoors", "multicultural"],
     borough: "Bronx",
     eventLink:
@@ -1044,19 +1044,19 @@ const events = [
     longitude: "-73.89021608864779",
   },
   {
-    title: "Earth Day 2023 Festival",
+    title: "Earth Day 2024 Festival",
     address:
       "Union Square North Plaza - E. 17th St. and Park Ave. New York, NY 10003",
     description:
-      "Join us this April in person at the Earth Day 2023 Festival in New York City’s Union Square. Our annual in-person festival is the most high-traffic Earth Day event in the country and features dozens of environmental non-profits and climate campaigns, interactive workshops, and kids’ activities.",
+      "Join us this April in person at the Earth Day 2024 Festival in New York City’s Union Square. Our annual in-person festival is the most high-traffic Earth Day event in the country and features dozens of environmental non-profits and climate campaigns, interactive workshops, and kids’ activities.",
     image:
       "https://images.pexels.com/photos/1072824/pexels-photo-1072824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    end: "2023-04-16 13:00",
-    end: "2023-04-16 15:15",
+    end: "2024-04-16 13:00",
+    end: "2024-04-16 15:15",
     tags: ["holidays", "family-friendly", "outdoors"],
     borough: "Manhattan",
     eventLink:
-      "https://www.eventbrite.com/e/earth-day-2023-festival-tickets-599171697677?aff=ebdssbdestsearch",
+      "https://www.eventbrite.com/e/earth-day-2024-festival-tickets-599171697677?aff=ebdssbdestsearch",
     status: "approved",
     latitude: "40.73673950615003",
     longitude: "-73.98893384232882",
@@ -1068,8 +1068,8 @@ const events = [
       "New York’s largest cuisine, culture, and community festival is back for its 3rd season in West Harlem. Manhattan’s most celebrated food event series, which gathered an average of 7k patrons per event in 2022, comes back Under the Arches bigger and better.",
     image:
       "https://images.pexels.com/photos/104884/pexels-photo-104884.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-07-11 19:00",
-    end: "2023-07-11 21:00",
+    start: "2024-07-11 19:00",
+    end: "2024-07-11 21:00",
     tags: ["outdoors", "multicultural"],
     borough: "Manhattan",
     eventLink:
@@ -1085,8 +1085,8 @@ const events = [
       "Come by Sour Mouse sunday afternoon to grab a drink and enjoy amazing singers and musicians performances. Great for a relaxing day with friends or even a date! Enjoy a game of billiards with some incredible tunes.",
     image:
       "https://images.pexels.com/photos/733767/pexels-photo-733767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-09-17 16:00",
-    end: "2023-09-17 19:00",
+    start: "2024-09-17 16:00",
+    end: "2024-09-17 19:00",
     tags: ["multicultural", "arts"],
     borough: "Manhattan",
     eventLink:
@@ -1102,8 +1102,8 @@ const events = [
       "On Tuesday, April 11th, medical and non-medical professionals are invited to join us for an evening presentation to learn more about how you can join Doctors Without Borders’ pool of dedicated aid workers. ",
     image:
       "https://images.pexels.com/photos/1170979/pexels-photo-1170979.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-04-11 18:00",
-    end: "2023-04-11 19:30",
+    start: "2024-04-11 18:00",
+    end: "2024-04-11 19:30",
     tags: ["education", "employment"],
     borough: "Manhattan",
     eventLink:
@@ -1119,8 +1119,8 @@ const events = [
       "We will be hosting a virtual Tech Career Fair with our hiring partners from fast growing startups and Fortune 500 companies in technology.  There will be a focus on helping companies achieve their diversity and inclusivity initiative with more diverse candidates to their talent pool. ",
     image:
       "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    start: "2023-04-21 12:00",
-    end: "2023-04-21 15:30",
+    start: "2024-04-21 12:00",
+    end: "2024-04-21 15:30",
     tags: ["employment"],
     borough: "Manhattan",
     eventLink:

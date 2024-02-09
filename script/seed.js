@@ -291,14 +291,15 @@ async function seed() {
     "https://t3.ftcdn.net/jpg/05/25/44/42/360_F_525444283_Uag1V1BQOkKlYNt0bwos7B1Lh8msD5zj.jpg",
     "https://img.freepik.com/free-vector/clothing-donation-concept-flat-hand-drawn_52683-55267.jpg?w=2000",
   ];
-
+console.log(clothes.data.map((place) => place.address), "CLOTHES LINE 294")
   const clothesFacilitiesSeed = await Promise.all(
     clothes.data.map((clothesFacility) =>
       Resource.create({
         name: clothesFacility.facname
-          .split(" ")
-          .map((word) => word[0] + word.slice(1).toLowerCase())
-          .join(" "),
+          // .split(" ")
+          // .map((word) => word[0] + word.slice(1).toLowerCase())
+          // .join(" ")
+          ,
         description: clothesFacility.factype
           .split(" ")
           .map((word) => word[0] + word.slice(1).toLowerCase())
@@ -306,7 +307,7 @@ async function seed() {
         imageUrl:
           clothesImages[Math.floor(Math.random() * clothesImages.length)],
         address: `${clothesFacility.address
-          .split(" ")
+          ?.split(" ")
           .map((word) => {
             if (Number(word)) {
               return word;
